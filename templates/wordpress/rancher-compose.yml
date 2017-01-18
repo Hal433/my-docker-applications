@@ -1,5 +1,0 @@
-.catalog:
-  name: "Wordpress" # Name of the versioned template of the Catalog Entry 
-  version: "1.0" # Version of the versioned template of the Catalog Entry 
-  description: "Wordpress is the largest self-hosted blogging tool in the world, used on millions of sites and seen by tens of millions of people every day." # Description of the versioned template of the Catalog Entry
-  uuid: "Wordpress-0" # Unique identifier to be used for upgrades. Please see note. 
