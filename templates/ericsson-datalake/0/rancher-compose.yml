@@ -1,0 +1,6 @@
+.catalog:
+  name: "Ericsson Enterprise Datalake"
+  version: "0.1-Experimenta"
+  description: "The Ericsson Enterprise Datalake based Inovia Big Data platform"
+  uuid: ericsson-enterprise-datalake
+  minimum_rancher_version: v0.56.0
