@@ -1,0 +1,6 @@
+.catalog:
+  name: "Ericsson Analytics Implementation Architecture"
+  version: "0.1-Experimenta"
+  description: "The Ericsson Analytics Implementation Architecture"
+  uuid: ericsson-analytics-implementation-architeture
+  minimum_rancher_version: v0.56.0
