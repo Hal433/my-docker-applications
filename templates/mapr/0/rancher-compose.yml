@@ -1,0 +1,6 @@
+.catalog:
+  name: "MapR Converged Data Platform"
+  version: "5.2-Enterprise"
+  description: " MapR Converged Data Platform. Modules include MapR-FS, MapR-DB, and MapR Streams."
+  uuid: mapr-converged-data-platform
+  minimum_rancher_version: v0.56.0
