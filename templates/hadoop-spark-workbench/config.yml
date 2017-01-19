@@ -1,0 +1,5 @@
+name: Spark/HDFS
+description: |
+   Spark/HDFS setup including HDFS Hue FileBrowser as well as spark-notebook enabling users to work with both HDFS and Spark via graphical user interfaces.
+version: 0.1
+category: "Analytics"
