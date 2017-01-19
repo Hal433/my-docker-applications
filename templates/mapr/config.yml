@@ -1,0 +1,5 @@
+name: MapR Converged Data Platform
+description: |
+   The MapR Converged Data Platform integrates Hadoop, Spark, and Apache Drill with real-time database capabilities, global event streaming, and scalable enterprise storage to power a new generation of big data applications.
+version: 5.2
+category: "Analytics"
