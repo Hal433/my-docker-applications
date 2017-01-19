@@ -1,0 +1,6 @@
+.catalog:
+  name: "Spark/HDFS Workbench"
+  version: "[EXPERIMENTAL]"
+  description: "Spark/HDFS runing inside docker containers. Also includes spark-notebook and HDFS FileBrowser."
+  uuid: docker-hadoop-spark-workbench-EXPERIMENTAL
+  minimum_rancher_version: v0.56.0
